@@ -1,0 +1,22 @@
+## Not work!!!!!!!!!!
+GET http://localhost:8083/weather/all
+
+###
+
+## Work
+GET http://localhost:8083/weather/2
+Accept: application/json
+
+###
+
+## Work
+GET http://localhost:8083/weather/hottest
+Accept: application/json
+
+###
+
+## Work
+GET http://localhost:8083/weather/cityGreatThen/20
+Accept: application/json
+
+###
